@@ -21,7 +21,7 @@ Libraries: **Matplotlib**, **NumPy**, **Pandas**, **Seaborn**, **Sklearn**, **St
 
 ## **Repository Contents**
 
-- [**Data Cleaning**](https://github.com/neoreuvenla/indo-covid-pred/blob/main/Data%20Cleaning.ipynb)
+- [**Data Cleaning**](https://github.com/neoreuvenla/indo-covid-pred/blob/main/01%20Data%20Cleaning.ipynb)
 - [**Placeholder**]()
 - [**Placeholder**]()
 - [**Summary of Findings**](https://github.com/neoreuvenla/indo-covid-pred/blob/main/Findings.md)
